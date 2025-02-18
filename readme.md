@@ -246,8 +246,5 @@ The application includes comprehensive error handling:
 4. Push to the branch
 5. Create a Pull Request
 
-## License
 
-This project is licensed under the MIT License.
-
-Created by Anuradha
+Created by Anuradha ❤️
